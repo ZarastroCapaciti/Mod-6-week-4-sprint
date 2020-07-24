@@ -1,0 +1,330 @@
+[
+ {
+   "ID": 1,
+   "Product_Name": "Simba Beef",
+   "Brand": "Simba",
+   "Category": "Chips",
+   "Available_Stock": 4,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 2,
+   "Product_Name": "Simba Salt & Vinegar",
+   "Brand": "Simba",
+   "Category": "Chips",
+   "Available_Stock": 8,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 3,
+   "Product_Name": "Simba Cheese",
+   "Brand": "Simba",
+   "Category": "Chips",
+   "Available_Stock": 5,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 4,
+   "Product_Name": "Lays Salt & Vinegar",
+   "Brand": "Lays",
+   "Category": "Chips",
+   "Available_Stock": 9,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 5,
+   "Product_Name": "Lays Thai Sweet Chilli",
+   "Brand": "Lays",
+   "Category": "Chips",
+   "Available_Stock": 2,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 6,
+   "Product_Name": "Lays Salty",
+   "Brand": "Lays",
+   "Category": "Chips",
+   "Available_Stock": 5,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 7,
+   "Product_Name": "Apple",
+   "Brand": "No_Brand",
+   "Category": "Fruits",
+   "Available_Stock": 3,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 8,
+   "Product_Name": "Grapes",
+   "Brand": "No_Brand",
+   "Category": "Fruits",
+   "Available_Stock": 16,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 9,
+   "Product_Name": "Pear",
+   "Brand": "No_Brand",
+   "Category": "Fruits",
+   "Available_Stock": 26,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 10,
+   "Product_Name": "Banana",
+   "Brand": "No_Brand",
+   "Category": "Fruits",
+   "Available_Stock": 15,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 11,
+   "Product_Name": "Strawberry",
+   "Brand": "No_Brand",
+   "Category": "Fruits",
+   "Available_Stock": 7,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 12,
+   "Product_Name": "Watermelon",
+   "Brand": "No_Brand",
+   "Category": "Fruits",
+   "Available_Stock": 8,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 13,
+   "Product_Name": "Carrot",
+   "Brand": "No_Brand",
+   "Category": "Veggies",
+   "Available_Stock": 4,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 14,
+   "Product_Name": "Corn",
+   "Brand": "No_Brand",
+   "Category": "Veggies",
+   "Available_Stock": 3,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 15,
+   "Product_Name": "Peas",
+   "Brand": "No_Brand",
+   "Category": "Veggies",
+   "Available_Stock": 7,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 16,
+   "Product_Name": "Butternut",
+   "Brand": "No_Brand",
+   "Category": "Veggies",
+   "Available_Stock": 1,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 17,
+   "Product_Name": "Broccoli",
+   "Brand": "No_Brand",
+   "Category": "Veggies",
+   "Available_Stock": 7,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 18,
+   "Product_Name": "Spinach",
+   "Brand": "No_Brand",
+   "Category": "Veggies",
+   "Available_Stock": 8,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 19,
+   "Product_Name": "Steak & Kidney Pie",
+   "Brand": "No_Brand",
+   "Category": "Pies",
+   "Available_Stock": 4,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 20,
+   "Product_Name": "Pepper Steak Pie",
+   "Brand": "No_Brand",
+   "Category": "Pies",
+   "Available_Stock": 4,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 21,
+   "Product_Name": "Burger Pie",
+   "Brand": "No_Brand",
+   "Category": "Pies",
+   "Available_Stock": 7,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 22,
+   "Product_Name": "Cheese & Salami Pie",
+   "Brand": "No_Brand",
+   "Category": "Pies",
+   "Available_Stock": 9,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 23,
+   "Product_Name": "Chicken & Mushroom Pie",
+   "Brand": "No_Brand",
+   "Category": "Pies",
+   "Available_Stock": 3,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 24,
+   "Product_Name": "Coke",
+   "Brand": "Coca-Cola",
+   "Category": "Drinks",
+   "Available_Stock": 19,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 25,
+   "Product_Name": "Fanta Grape",
+   "Brand": "Fanta",
+   "Category": "Drinks",
+   "Available_Stock": 12,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 26,
+   "Product_Name": "Fanta Orange",
+   "Brand": "Fanta",
+   "Category": "Drinks",
+   "Available_Stock": 10,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 27,
+   "Product_Name": "Sprite",
+   "Brand": "Sprite",
+   "Category": "Drinks",
+   "Available_Stock": 4,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 28,
+   "Product_Name": "Sprite Lemon & Lime",
+   "Brand": "Sprite",
+   "Category": "Drinks",
+   "Available_Stock": 8,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 29,
+   "Product_Name": "Monster Energy Original",
+   "Brand": "Monster Energy",
+   "Category": "Drinks",
+   "Available_Stock": 17,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 30,
+   "Product_Name": "Monster Energy Assault",
+   "Brand": "Monster Energy",
+   "Category": "Drinks",
+   "Available_Stock": 37,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 31,
+   "Product_Name": "Monster Energy Khaos",
+   "Brand": "Monster Energy",
+   "Category": "Drinks",
+   "Available_Stock": 22,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 32,
+   "Product_Name": "Score",
+   "Brand": "Score",
+   "Category": "Drinks",
+   "Available_Stock": 6,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 33,
+   "Product_Name": "Score Apple",
+   "Brand": "Score",
+   "Category": "Drinks",
+   "Available_Stock": 12,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 34,
+   "Product_Name": "Maynards",
+   "Brand": "Maynards",
+   "Category": "Sweets",
+   "Available_Stock": 11,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 35,
+   "Product_Name": "Speckles Speckled Eggs",
+   "Brand": "Speckles",
+   "Category": "Sweets",
+   "Available_Stock": 7,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 36,
+   "Product_Name": "Tex",
+   "Brand": "Tex",
+   "Category": "Choclates",
+   "Available_Stock": 4,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 37,
+   "Product_Name": "BarOne",
+   "Brand": "BarOne",
+   "Category": "Choclates",
+   "Available_Stock": 10,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 38,
+   "Product_Name": "Chomp",
+   "Brand": "Chomp",
+   "Category": "Choclates",
+   "Available_Stock": 15,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 39,
+   "Product_Name": "PS",
+   "Brand": "PS",
+   "Category": "Choclates",
+   "Available_Stock": 19,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 40,
+   "Product_Name": "Flake",
+   "Brand": "Flake",
+   "Category": "Choclates",
+   "Available_Stock": 13,
+   "Price": "R0,00"
+ },
+ {
+   "ID": 41,
+   "Product_Name": "Play Energy Drink",
+   "Brand": "Play",
+   "Category": "Drinks",
+   "Available_Stock": 16,
+   "Price": "R0,00"
+ }
+]
