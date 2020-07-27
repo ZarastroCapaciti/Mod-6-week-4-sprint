@@ -1,6 +1,5 @@
 import pymongo
 from pymongo import MongoClient
-import json
 import tkinter as tk
 from tkinter import ttk
 from tkinter import scrolledtext
@@ -126,8 +125,8 @@ class Application(tk.Frame):
         self.p_name = {"Product_Name": "Butternut"}
         self.brand_name = {"Brand": "No_Brand"}
 
-        self.p_name_chnge = { "$set": { "Product_Name": "Aero" } }
-        self.brand_name_chnge = { "$set": { "Brand": "Aero" } }
+        self.p_name_chnge = { "$set": { "Product_Name": "Japanese Chicken Teriyaki" } }
+        self.brand_name_chnge = { "$set": { "Brand": "Lays" } }
 
         self.top_three.update_one(self.p_name, self.p_name_chnge)
         self.top_three.update_one(self.brand_name, self.brand_name_chnge)
